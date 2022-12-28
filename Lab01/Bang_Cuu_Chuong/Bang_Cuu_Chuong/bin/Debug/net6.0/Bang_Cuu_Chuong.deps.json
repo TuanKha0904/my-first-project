@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bang_Cuu_Chuong/1.0.0": {
+        "runtime": {
+          "Bang_Cuu_Chuong.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bang_Cuu_Chuong/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

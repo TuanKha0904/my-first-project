@@ -1,0 +1,15 @@
+D:\Practice\LT_Windows\LT_Winform\Lab01\Bang_Cuu_Chuong\Bang_Cuu_Chuong\bin\Debug\net6.0\Bang_Cuu_Chuong.exe
+D:\Practice\LT_Windows\LT_Winform\Lab01\Bang_Cuu_Chuong\Bang_Cuu_Chuong\bin\Debug\net6.0\Bang_Cuu_Chuong.deps.json
+D:\Practice\LT_Windows\LT_Winform\Lab01\Bang_Cuu_Chuong\Bang_Cuu_Chuong\bin\Debug\net6.0\Bang_Cuu_Chuong.runtimeconfig.json
+D:\Practice\LT_Windows\LT_Winform\Lab01\Bang_Cuu_Chuong\Bang_Cuu_Chuong\bin\Debug\net6.0\Bang_Cuu_Chuong.dll
+D:\Practice\LT_Windows\LT_Winform\Lab01\Bang_Cuu_Chuong\Bang_Cuu_Chuong\bin\Debug\net6.0\Bang_Cuu_Chuong.pdb
+D:\Practice\LT_Windows\LT_Winform\Lab01\Bang_Cuu_Chuong\Bang_Cuu_Chuong\obj\Debug\net6.0\Bang_Cuu_Chuong.csproj.AssemblyReference.cache
+D:\Practice\LT_Windows\LT_Winform\Lab01\Bang_Cuu_Chuong\Bang_Cuu_Chuong\obj\Debug\net6.0\Bang_Cuu_Chuong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\LT_Windows\LT_Winform\Lab01\Bang_Cuu_Chuong\Bang_Cuu_Chuong\obj\Debug\net6.0\Bang_Cuu_Chuong.AssemblyInfoInputs.cache
+D:\Practice\LT_Windows\LT_Winform\Lab01\Bang_Cuu_Chuong\Bang_Cuu_Chuong\obj\Debug\net6.0\Bang_Cuu_Chuong.AssemblyInfo.cs
+D:\Practice\LT_Windows\LT_Winform\Lab01\Bang_Cuu_Chuong\Bang_Cuu_Chuong\obj\Debug\net6.0\Bang_Cuu_Chuong.csproj.CoreCompileInputs.cache
+D:\Practice\LT_Windows\LT_Winform\Lab01\Bang_Cuu_Chuong\Bang_Cuu_Chuong\obj\Debug\net6.0\Bang_Cuu_Chuong.dll
+D:\Practice\LT_Windows\LT_Winform\Lab01\Bang_Cuu_Chuong\Bang_Cuu_Chuong\obj\Debug\net6.0\refint\Bang_Cuu_Chuong.dll
+D:\Practice\LT_Windows\LT_Winform\Lab01\Bang_Cuu_Chuong\Bang_Cuu_Chuong\obj\Debug\net6.0\Bang_Cuu_Chuong.pdb
+D:\Practice\LT_Windows\LT_Winform\Lab01\Bang_Cuu_Chuong\Bang_Cuu_Chuong\obj\Debug\net6.0\Bang_Cuu_Chuong.genruntimeconfig.cache
+D:\Practice\LT_Windows\LT_Winform\Lab01\Bang_Cuu_Chuong\Bang_Cuu_Chuong\obj\Debug\net6.0\ref\Bang_Cuu_Chuong.dll

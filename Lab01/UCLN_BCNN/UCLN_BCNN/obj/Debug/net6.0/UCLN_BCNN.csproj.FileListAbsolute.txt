@@ -1,0 +1,15 @@
+D:\Practice\LT_Windows\LT_Winform\Lab01\UCLN_BCNN\UCLN_BCNN\bin\Debug\net6.0\UCLN_BCNN.exe
+D:\Practice\LT_Windows\LT_Winform\Lab01\UCLN_BCNN\UCLN_BCNN\bin\Debug\net6.0\UCLN_BCNN.deps.json
+D:\Practice\LT_Windows\LT_Winform\Lab01\UCLN_BCNN\UCLN_BCNN\bin\Debug\net6.0\UCLN_BCNN.runtimeconfig.json
+D:\Practice\LT_Windows\LT_Winform\Lab01\UCLN_BCNN\UCLN_BCNN\bin\Debug\net6.0\UCLN_BCNN.dll
+D:\Practice\LT_Windows\LT_Winform\Lab01\UCLN_BCNN\UCLN_BCNN\bin\Debug\net6.0\UCLN_BCNN.pdb
+D:\Practice\LT_Windows\LT_Winform\Lab01\UCLN_BCNN\UCLN_BCNN\obj\Debug\net6.0\UCLN_BCNN.csproj.AssemblyReference.cache
+D:\Practice\LT_Windows\LT_Winform\Lab01\UCLN_BCNN\UCLN_BCNN\obj\Debug\net6.0\UCLN_BCNN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\LT_Windows\LT_Winform\Lab01\UCLN_BCNN\UCLN_BCNN\obj\Debug\net6.0\UCLN_BCNN.AssemblyInfoInputs.cache
+D:\Practice\LT_Windows\LT_Winform\Lab01\UCLN_BCNN\UCLN_BCNN\obj\Debug\net6.0\UCLN_BCNN.AssemblyInfo.cs
+D:\Practice\LT_Windows\LT_Winform\Lab01\UCLN_BCNN\UCLN_BCNN\obj\Debug\net6.0\UCLN_BCNN.csproj.CoreCompileInputs.cache
+D:\Practice\LT_Windows\LT_Winform\Lab01\UCLN_BCNN\UCLN_BCNN\obj\Debug\net6.0\UCLN_BCNN.dll
+D:\Practice\LT_Windows\LT_Winform\Lab01\UCLN_BCNN\UCLN_BCNN\obj\Debug\net6.0\refint\UCLN_BCNN.dll
+D:\Practice\LT_Windows\LT_Winform\Lab01\UCLN_BCNN\UCLN_BCNN\obj\Debug\net6.0\UCLN_BCNN.pdb
+D:\Practice\LT_Windows\LT_Winform\Lab01\UCLN_BCNN\UCLN_BCNN\obj\Debug\net6.0\UCLN_BCNN.genruntimeconfig.cache
+D:\Practice\LT_Windows\LT_Winform\Lab01\UCLN_BCNN\UCLN_BCNN\obj\Debug\net6.0\ref\UCLN_BCNN.dll

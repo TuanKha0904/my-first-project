@@ -1,0 +1,15 @@
+D:\Practice\LT_Windows\LT_Winform\Lab01\PTB1\PTB1\bin\Debug\net6.0\PTB1.exe
+D:\Practice\LT_Windows\LT_Winform\Lab01\PTB1\PTB1\bin\Debug\net6.0\PTB1.deps.json
+D:\Practice\LT_Windows\LT_Winform\Lab01\PTB1\PTB1\bin\Debug\net6.0\PTB1.runtimeconfig.json
+D:\Practice\LT_Windows\LT_Winform\Lab01\PTB1\PTB1\bin\Debug\net6.0\PTB1.dll
+D:\Practice\LT_Windows\LT_Winform\Lab01\PTB1\PTB1\bin\Debug\net6.0\PTB1.pdb
+D:\Practice\LT_Windows\LT_Winform\Lab01\PTB1\PTB1\obj\Debug\net6.0\PTB1.csproj.AssemblyReference.cache
+D:\Practice\LT_Windows\LT_Winform\Lab01\PTB1\PTB1\obj\Debug\net6.0\PTB1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\LT_Windows\LT_Winform\Lab01\PTB1\PTB1\obj\Debug\net6.0\PTB1.AssemblyInfoInputs.cache
+D:\Practice\LT_Windows\LT_Winform\Lab01\PTB1\PTB1\obj\Debug\net6.0\PTB1.AssemblyInfo.cs
+D:\Practice\LT_Windows\LT_Winform\Lab01\PTB1\PTB1\obj\Debug\net6.0\PTB1.csproj.CoreCompileInputs.cache
+D:\Practice\LT_Windows\LT_Winform\Lab01\PTB1\PTB1\obj\Debug\net6.0\PTB1.dll
+D:\Practice\LT_Windows\LT_Winform\Lab01\PTB1\PTB1\obj\Debug\net6.0\refint\PTB1.dll
+D:\Practice\LT_Windows\LT_Winform\Lab01\PTB1\PTB1\obj\Debug\net6.0\PTB1.pdb
+D:\Practice\LT_Windows\LT_Winform\Lab01\PTB1\PTB1\obj\Debug\net6.0\PTB1.genruntimeconfig.cache
+D:\Practice\LT_Windows\LT_Winform\Lab01\PTB1\PTB1\obj\Debug\net6.0\ref\PTB1.dll
